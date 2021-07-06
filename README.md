@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Atra1x
+- 👋 Hi, I’m @moebqr
 - 👀 I’m interested in programming, physics and aerospace!
 - 🌱 I’m currently learning Python and Swift
 - 💞️ I’m looking to collaborate on many different things!
