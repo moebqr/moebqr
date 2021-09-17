@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @moebqr
 - 👀 I’m interested in programming, physics and aerospace!
-- 🌱 I’m currently learning Python and Swift
+- 🌱 I’m currently learning React Native!
 - 💞️ I’m looking to collaborate on many different things!
 - 📫 How to reach me: https://www.twitter.com/moebqr
 
