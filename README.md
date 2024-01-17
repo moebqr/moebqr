@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @moebqr
 - 👀 I’m interested in deep learning, and data science!
-- 🌱 I’m currently learning Tensorflow Extended!
-- 🏫 Data Science and Business Analytics student at the University of London.
+- 🌱 I’m currently learning Tensorflow and Tableau!
+- 🏫 Data Science and Business Analytics student at the University of London - LSE.
 - 📫 How to reach me: [linkedin.com/in/mohamed-alderazi](https://www.linkedin.com/in/mohamed-alderazi/)
 
 <!---
