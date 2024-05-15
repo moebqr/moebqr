@@ -5,7 +5,7 @@
 
 - 📝 I regularly write articles on [medium.com/@mohamedalderazi](https://medium.com/@mohamedalderazi)
 
-- 🎓 Student at **University of London - LSE**
+- 🎓 Student at **University of London - London School of Economics and Political Science**
 
 - 📫 How to reach me [linkedin.com/in/mohamed-alderazi](https://www.linkedin.com/in/mohamed-alderazi)
 
