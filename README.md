@@ -3,13 +3,13 @@
 
 - 🌱 I’m currently learning **PyTorch, Tensorflow, Tableau!**
 
-- 📝 I regularly write articles on [https://medium.com/@mohamedalderazi](https://medium.com/@mohamedalderazi)
+- 📝 I regularly write articles on [medium.com/@mohamedalderazi](https://medium.com/@mohamedalderazi)
 
 - 🎓 Student at **University of London - LSE**
 
-- 📫 How to reach me **https://www.linkedin.com/in/mohamed-alderazi/**
+- 📫 How to reach me [linkedin.com/in/mohamed-alderazi](https://www.linkedin.com/in/mohamed-alderazi)
 
-### Blogs posts
+### My Recent Blogs posts
 <!-- BLOG-POST-LIST:START -->
 - [Machine Learning: The New Vanguard in Liquidity Risk Management](https://mohamedalderazi.medium.com/machine-learning-the-new-vanguard-in-liquidity-risk-management-92cd197acc35?source=rss-7bfb9fc215b6------2)
 - [“Seeing” the Future: Unraveling the Complexities of Large Vision Models in AI](https://mohamedalderazi.medium.com/seeing-the-future-unraveling-the-complexities-of-large-vision-models-in-ai-39f775cf1a1d?source=rss-7bfb9fc215b6------2)
