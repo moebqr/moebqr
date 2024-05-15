@@ -1,5 +1,5 @@
 <h1 align="center">Hey 👋, I'm Mohamed Alderazi!</h1>
-<h3 align="center">An aspiring data scientist and machine learning professional</h3>
+<h3 align="center">An Aspiring Data Scientist and Machine Learning Professional</h3>
 
 - 🌱 I’m currently learning **PyTorch, Tensorflow, Tableau!**
 
