@@ -1,11 +1,11 @@
 <h1 align="center">Hey 👋, I'm Mohamed Alderazi!</h1>
 <h3 align="center">An Aspiring Data Scientist and Machine Learning Professional</h3>
 
-- 🌱 I’m currently learning **PyTorch, Tensorflow, Tableau!**
+- 🌱 I’m currently learning **LangChain, crewAI, and PyTorch!**
 
 - 📝 I regularly write articles on [medium.com/@mohamedalderazi](https://medium.com/@mohamedalderazi)
 
-- 🎓 Student at **University of London - London School of Economics and Political Science**
+- 🎓 Data Science Student at **University of London - London School of Economics and Political Science**
 
 - 📫 How to reach me [linkedin.com/in/mohamed-alderazi](https://www.linkedin.com/in/mohamed-alderazi)
 
