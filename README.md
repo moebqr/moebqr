@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **LangChain, LangGraph, and PyTorch!**
 
-- 📝 I regularly write articles on [medium.com/@mohamedalderazi](https://medium.com/@mohamedalderazi)
+- 📝 I somestimes write articles on [medium.com/@mohamedalderazi](https://medium.com/@mohamedalderazi)
 
 - 🎓 Data Science Student at **University of London - London School of Economics and Political Science**
 
