@@ -1,7 +1,7 @@
 <h1 align="center">Hey 👋, I'm Mohamed Alderazi!</h1>
 <h3 align="center">An Aspiring Data Scientist and Machine Learning Professional</h3>
 
-- 🌱 I’m currently learning **LangChain, crewAI, and PyTorch!**
+- 🌱 I’m currently learning **LangChain, LangGraph, and PyTorch!**
 
 - 📝 I regularly write articles on [medium.com/@mohamedalderazi](https://medium.com/@mohamedalderazi)
 
