@@ -1,5 +1,6 @@
 <h1 align="center">Hey 👋, I'm Mohamed Alderazi!</h1>
 <h3 align="center">An Aspiring Data Scientist and Machine Learning Professional</h3>
+<h5 align="center">Intern Data Scientist at Bank ABC</h5>
 
 - 🌱 I’m currently learning **LangChain, LangGraph, and PyTorch!**
 
