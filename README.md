@@ -5,11 +5,11 @@
 
 - 🌱 I’m currently learning **LangChain, LangGraph, and Chainlit!**
 
-- 📝 I somestimes write articles on [medium.com/@mohamedalderazi](https://medium.com/@mohamedalderazi)
+- 📝 I sometimes write articles on [medium.com/@mohamedalderazi](https://medium.com/@mohamedalderazi)
 
 - 🎓 Data Science Student at **University of London - London School of Economics and Political Science**
 
-- 📫 How to reach me [linkedin.com/in/mohamed-alderazi](https://www.linkedin.com/in/mohamed-alderazi)
+- 📫 How to reach me [linkedin.com/in/mohamed-alderazi](https://www.linkedin.com/in/mohamed-alderazi) (Linkedin AI Top Voice!)
 
 ### My Recent Blogs posts
 <!-- BLOG-POST-LIST:START -->
