@@ -3,7 +3,7 @@
 
 - 👨‍💻 Currently an Intern **Data Scientist at Bank ABC!**
 
-- 🌱 I’m currently learning **LangChain, LangGraph, and Chainlit!**
+- 🌱 I’m currently learning **LangGraph!**
 
 - 📝 I sometimes write articles on [medium.com/@mohamedalderazi](https://medium.com/@mohamedalderazi)
 
