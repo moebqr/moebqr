@@ -1,27 +1,17 @@
 <h1 align="center">Hey 👋, I'm Mohamed Alderazi!</h1>
 <h3 align="center">An Aspiring Data Scientist and Machine Learning Professional</h3>
 
-- 👨‍💻 Currently an Intern **Data Scientist at Bank ABC!**
+- 👨‍💻 Currently work on **AI** at **Bank ABC!** (LLM based apps, and Agents)
 
-- 🌱 I’m currently learning **LangGraph!**
+- 🌱 I build cool stuff! Strong background in Fullstack Software Engineering (T3 Stack) and Experience in AI/ML - LLMs, RAG, Computer Vision, Predictive Modeling, and more.
 
-- 📝 I sometimes write articles on [medium.com/@mohamedalderazi](https://medium.com/@mohamedalderazi)
-
-- 🎓 Data Science Student at **University of London - London School of Economics and Political Science**
-
-- 📫 How to reach me [linkedin.com/in/mohamed-alderazi](https://www.linkedin.com/in/mohamed-alderazi) (Linkedin AI Top Voice!)
+- Check out my [linkedin](https://www.linkedin.com/in/mohamed-alderazi), and [medium](https://medium.com/@mohamedalderazi).
 
 ### My Recent Blogs posts
 <!-- BLOG-POST-LIST:START -->
 - [Machine Learning: The New Vanguard in Liquidity Risk Management](https://mohamedalderazi.medium.com/machine-learning-the-new-vanguard-in-liquidity-risk-management-92cd197acc35?source=rss-7bfb9fc215b6------2)
 - [“Seeing” the Future: Unraveling the Complexities of Large Vision Models in AI](https://mohamedalderazi.medium.com/seeing-the-future-unraveling-the-complexities-of-large-vision-models-in-ai-39f775cf1a1d?source=rss-7bfb9fc215b6------2)
 <!-- BLOG-POST-LIST:END -->
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/mohamed-alderazi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mohamed-alderazi" height="30" width="40" /></a>
-<a href="https://medium.com/@mohamedalderazi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@mohamedalderazi" height="30" width="40" /></a>
-</p>
 
 <h3 align="left">Languages and Tools:</h3>
 
