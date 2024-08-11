@@ -1,7 +1,9 @@
 <h1 align="center">Hey 👋, I'm Mohamed Alderazi!</h1>
 <h3 align="center">An Aspiring Data Scientist and Machine Learning Professional</h3>
 
-- 👨‍💻 Currently work on **AI** at **Bank ABC!** (LLM based apps, and Agents)
+- 👨‍💻 Currently building a Startup in Sleath (LLM Infra)
+
+- 🏦 Previously worked on **AI** at **Bank ABC!** (LLM based apps, and Agents)
 
 - 🌱 I build cool stuff! Strong background in Fullstack Software Engineering (T3 Stack) and Experience in AI/ML - LLMs, RAG, Agents, Computer Vision, Predictive Modeling, and more.
 
