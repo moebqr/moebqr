@@ -7,7 +7,7 @@
 
 - 🌱 I build cool stuff! Strong background in Fullstack Software Engineering (T3 Stack) and Experience in AI/ML - LLMs, RAG, Agents, Computer Vision, Predictive Modeling, and more.
 
-- Check out my [linkedin](https://www.linkedin.com/in/mohamed-alderazi), and [medium](https://medium.com/@mohamedalderazi).
+- Check out my [Linkedin](https://www.linkedin.com/in/mohamed-alderazi) and [Substack](https://substack.com/@mohamedalderazi).
 
 ### My Recent Blogs posts
 <!-- BLOG-POST-LIST:START -->
