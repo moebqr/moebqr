@@ -1,7 +1,7 @@
 <h1 align="center">Hey 👋, I'm Mohamed Alderazi!</h1>
 <h3 align="center">An Aspiring Data Scientist and Machine Learning Professional</h3>
 
-- 👨‍💻 I am the Founder of Convolute. Currently building our latest product, [Servable](https://www.servable.dev)!
+- 👨‍💻 I am the Founder of [Servable](https://www.servable.dev)!
 - 🏦 Previously worked on **AI** at **Bank ABC!** (LLM based apps, and Agents)
 
 - 🌱 I build cool stuff! Strong background in Fullstack Software Engineering (T3 Stack) and Experience in AI/ML - LLMs, RAG, Agents, Computer Vision, Predictive Modeling, and more.
