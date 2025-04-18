@@ -8,12 +8,6 @@
 
 - Check out my [Linkedin](https://www.linkedin.com/in/mohamed-alderazi) and [Substack](https://substack.com/@mohamedalderazi).
 
-### My Recent Blogs posts
-<!-- BLOG-POST-LIST:START -->
-- [Machine Learning: The New Vanguard in Liquidity Risk Management](https://mohamedalderazi.medium.com/machine-learning-the-new-vanguard-in-liquidity-risk-management-92cd197acc35?source=rss-7bfb9fc215b6------2)
-- [“Seeing” the Future: Unraveling the Complexities of Large Vision Models in AI](https://mohamedalderazi.medium.com/seeing-the-future-unraveling-the-complexities-of-large-vision-models-in-ai-39f775cf1a1d?source=rss-7bfb9fc215b6------2)
-<!-- BLOG-POST-LIST:END -->
-
 <h3 align="left">Languages and Tools:</h3>
 
 ![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)
