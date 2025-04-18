@@ -4,7 +4,7 @@
 - 👨‍💻 I am the Founder of [Servable](https://www.servable.dev)!
 - 🏦 Previously worked on **AI** at **Bank ABC!** (LLM based apps, and Agents)
 
-- 🌱 I build cool stuff! Strong background in Fullstack Software Engineering (T3 Stack) and Experience in AI/ML - LLMs, RAG, Agents, Computer Vision, Predictive Modeling, and more.
+- 🌱 I build cool stuff (Mostly Dev Tools)! Strong background in Fullstack Software Engineering (T3 Stack) and Experience in AI/ML - LLMs, RAG, Agents, Computer Vision, Predictive Modeling, and more.
 
 - Check out my [Linkedin](https://www.linkedin.com/in/mohamed-alderazi) and [Substack](https://substack.com/@mohamedalderazi).
 
